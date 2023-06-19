@@ -1,0 +1,3 @@
+# 2022-COMP1006-LargeCoursework01
+
+Please see the description for this *assessed* lab exercise in the PDF on Moodle...
